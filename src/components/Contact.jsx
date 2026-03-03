@@ -26,7 +26,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-lg mb-1">Our Location</h4>
-                                        <p className="text-slate-300">123 Tech Avenue, Silicon District<br />Tech City, TC 90210</p>
+                                        <p className="text-slate-300">Kalara, Sultanagar<br />Daspur, West Bengal, 721211</p>
                                     </div>
                                 </div>
 
@@ -36,7 +36,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-lg mb-1">Phone Number</h4>
-                                        <p className="text-slate-300">+1 (555) 123-4567<br />+1 (555) 987-6543</p>
+                                        <p className="text-slate-300">+91 7602281245</p>
                                     </div>
                                 </div>
 
@@ -46,7 +46,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-lg mb-1">Email Address</h4>
-                                        <p className="text-slate-300">support@technovacomp.com<br />sales@technovacomp.com</p>
+                                        <p className="text-slate-300">sandip.bera@narayanpccare.in<br />support@narayanpccare.in</p>
                                     </div>
                                 </div>
 
@@ -56,7 +56,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-lg mb-1">Working Hours</h4>
-                                        <p className="text-slate-300">Mon - Fri: 9:00 AM - 8:00 PM<br />Sat - Sun: 10:00 AM - 4:00 PM</p>
+                                        <p className="text-slate-300">Mon - Sun: 9:00 AM - 8:00 PM</p>
                                     </div>
                                 </div>
                             </div>

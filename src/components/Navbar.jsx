@@ -82,10 +82,10 @@ const Navbar = () => {
                         </a>
                     ))}
                     <a
-                        href="tel:+1234567890"
+                        href="tel:+917602281245"
                         className="inline-block text-center bg-accent text-white px-6 py-3 rounded-md font-semibold mt-2"
                     >
-                        Call Now: 9876543210
+                        Call Now: 7602281245
                     </a>
                 </div>
             </div>

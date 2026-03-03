@@ -28,7 +28,7 @@ const ProductCard = ({ product }) => {
                 </div>
 
                 <button className="w-full bg-slate-900 hover:bg-accent text-white font-semibold py-3 rounded-xl transition-colors mt-auto shadow-md">
-                    Buy Now
+                    Call Now
                 </button>
             </div>
         </div>

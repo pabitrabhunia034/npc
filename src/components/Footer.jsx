@@ -68,9 +68,9 @@ const Footer = () => {
                             <span className="absolute left-0 -bottom-2 w-1/2 h-0.5 bg-accent"></span>
                         </h4>
                         <ul className="space-y-4 text-slate-400">
-                            <li>123 Tech Avenue, Silicon District, Tech City, TC 90210</li>
-                            <li><strong className="text-white block mt-2">Phone:</strong> +1 (555) 123-4567</li>
-                            <li><strong className="text-white block mt-2">Email:</strong> support@technovacomp.com</li>
+                            <li>Kalara, Sultanagar, Daspur, West Bengal, 721211</li>
+                            <li><strong className="text-white block mt-2">Phone:</strong> +91 7602281245</li>
+                            <li><strong className="text-white block mt-2">Email:</strong> sandip.bera@narayanpccare.in</li>
                         </ul>
                     </div>
 
